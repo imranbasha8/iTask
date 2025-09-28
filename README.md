@@ -24,9 +24,6 @@ It allows you to add, edit, delete, and mark tasks as completed, with localStora
 
 ## 📦 Installation & Setup
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/imranbasha8/iTask.git
-   cd iTask
 
 2. Install the dependencies: 
     npm install 
